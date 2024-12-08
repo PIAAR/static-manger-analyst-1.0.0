@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.swp
+
+# Virtual environment
+env/
+venv/
+
+# Credentials
+*.key
+*.pem
+*.json
+
+# Config files
+config.json
+.env
+
+# Local storage
+memory/
