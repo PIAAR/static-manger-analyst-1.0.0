@@ -1,0 +1,25 @@
+# Web framework for API hosting
+fastapi
+uvicorn[standard]
+
+# Libraries for LLM and AI
+transformers
+torch
+sentencepiece
+
+# Google Drive API
+google-api-python-client
+google-auth
+google-auth-httplib2
+google-auth-oauthlib
+
+# Code execution and testing
+docker
+pytest
+
+# For environment management and config
+python-dotenv
+
+# Optional utilities for debugging and enhancements
+httpx
+pydantic
